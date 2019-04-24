@@ -1,2 +1,2 @@
 # AlinaLisinaRepo
-Repo for home work
+Repo for Python home work
